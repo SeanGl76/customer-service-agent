@@ -1,0 +1,37 @@
+{
+    "name": "USER PROFILE",
+    "interests": [
+        "refund requests",
+        "cancellations",
+        "database categories",
+        "intents",
+        "category distribution",
+        "complaints",
+        "claims",
+        "customer service responses",
+        "cancellation policies",
+        "shipping",
+        "account management",
+        "poetry about customer service",
+        "examples of refund requests",
+        "complaint intents",
+        "tracking compensation",
+        "refund status updates",
+        "rebates",
+        "compensation requests"
+    ],
+    "facts": [
+        "997 refund requests",
+        "998 cancellation requests",
+        "multiple categories and intents in the database",
+        "category distribution: ACCOUNT (5986), ORDER (3988), REFUND (2992), INVOICE (1999), CONTACT (1999), PAYMENT (1998), FEEDBACK (1997), DELIVERY (1994), SHIPPING (1970), SUBSCRIPTION (999), CANCEL (950)",
+        "FEEDBACK category contains user messages related to providing feedback or complaints about a business or service",
+        "customer service representatives typically respond to cancellation requests by providing information about early termination penalties or fees",
+        "users inquire about correcting shipping addresses",
+        "distribution of 'intent' in the ACCOUNT category: edit_account (1000 occurrences), switch_account (1000 occurrences), registration_problems (999 occurrences), create_account (997 occurrences), delete_account (995 occurrences), recover_password (995 occurrences)",
+        "people ask for refunds or try to track their compensation",
+        "agents respond to complaint intents by providing information about early termination penalties or fees, tracking refunds, checking refund policies, and setting up shipping addresses",
+        "users want to track the status of their refunds and expect refunds",
+        "users expect rebates or compensation for their money"
+    ]
+}
