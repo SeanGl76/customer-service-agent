@@ -67,6 +67,7 @@ The tools in this project are exposed using the standard Model Context Protocol 
 
 To connect a custom Python client to the tools, initialize a subprocess connection to the server script using the `mcp` library:
 
+```python
 import asyncio
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
